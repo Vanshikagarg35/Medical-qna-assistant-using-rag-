@@ -22,3 +22,5 @@ The first index build downloads the free MiniLM embedding model and needs intern
 This repository includes a Vercel configuration for a single free deployment: the Vite frontend is served statically and the FastAPI application is served at `/api/*`. The bundled MiniLM model and FAISS starter index avoid a first-request model download.
 
 The Vercel Hobby plan is suitable for a low-traffic academic demo. It uses Vercel's Large Functions beta because the local ML runtime is larger than a standard serverless package. Keep `LLM_PROVIDER=extractive` for a no-key deployment. Do not add a Gemini key to source control.
+
+Deployment trigger: this commit requests the initial Vercel production build from the `main` branch.
