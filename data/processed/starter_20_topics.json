@@ -1,0 +1,202 @@
+[
+  {
+    "chunk_id": "STARTER_01",
+    "title": "Diabetes",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Diabetes is a long-term condition involving high blood glucose. General symptoms may include increased thirst, frequent urination, tiredness, blurred vision, and unexplained weight change. Symptoms alone do not confirm diabetes. Testing and professional assessment are required.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_02",
+    "title": "High Blood Pressure",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "High blood pressure means blood pushes against artery walls with persistently increased force. It often has no obvious symptoms. Proper measurement and professional interpretation are important.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_03",
+    "title": "Asthma",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Asthma affects the airways and may cause wheezing, coughing, chest tightness, or shortness of breath. Severe breathing difficulty requires urgent attention.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_04",
+    "title": "Dengue",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Dengue is a mosquito-borne viral illness. It may cause fever, headache, pain behind the eyes, muscle and joint pain, nausea, vomiting, or rash. Worsening symptoms require prompt assessment.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_05",
+    "title": "Malaria",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Malaria is transmitted by certain mosquitoes. Symptoms can include fever, chills, headache, and tiredness. Suspected malaria requires testing and professional treatment.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_06",
+    "title": "Tuberculosis",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Tuberculosis commonly affects the lungs. General symptoms may include persistent cough, fever, night sweats, tiredness, and weight loss. Testing and supervised treatment are essential.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_07",
+    "title": "Anaemia",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Anaemia involves insufficient healthy red blood cells or haemoglobin. It can cause tiredness, weakness, dizziness, or shortness of breath. The cause should be identified before treatment.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_08",
+    "title": "Migraine",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Migraine can cause recurring headache, nausea, and sensitivity to light or sound. New severe headache, weakness, confusion, or speech difficulty requires urgent assessment.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_09",
+    "title": "Dehydration",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Dehydration occurs when fluid loss exceeds intake. Signs may include thirst, dry mouth, reduced urination, darker urine, tiredness, and dizziness.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_10",
+    "title": "Acid Reflux",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Acid reflux occurs when stomach contents move toward the food pipe. It may cause burning discomfort or sour taste. Persistent symptoms require assessment.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_11",
+    "title": "Common Cold",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "The common cold is usually a mild viral respiratory illness with runny nose, sore throat, sneezing, cough, or tiredness.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_12",
+    "title": "Influenza",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Influenza is a contagious viral respiratory illness that may cause fever, cough, sore throat, body aches, headache, and fatigue.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_13",
+    "title": "Allergies",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Allergies occur when the immune system reacts to a usually harmless substance. Severe swelling or breathing difficulty can be an emergency.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_14",
+    "title": "Typhoid",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Typhoid fever is associated with contaminated food or water and may cause prolonged fever, weakness, headache, or abdominal discomfort.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_15",
+    "title": "Rabies Prevention",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "After a possible animal bite or scratch, wash the wound thoroughly and seek urgent medical assessment for rabies post-exposure care. Do not wait for symptoms.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_16",
+    "title": "Heat-related Illness",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Heat illness may occur when the body cannot cool itself. Fluids, shade, light clothing, and avoiding peak heat can help. Confusion or collapse requires urgent care.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_17",
+    "title": "Healthy Diet",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "A healthy dietary pattern generally includes varied vegetables, fruits, whole grains, protein sources, and appropriate hydration. Individual needs vary.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_18",
+    "title": "Physical Activity",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Regular physical activity supports health. Type and amount depend on age, fitness, and health conditions.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_19",
+    "title": "Sleep Hygiene",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Sleep hygiene includes a consistent schedule, quiet dark environment, reduced late caffeine, and limiting stimulating screen use near bedtime.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  },
+  {
+    "chunk_id": "STARTER_20",
+    "title": "Hand Hygiene",
+    "section": "General patient education",
+    "organization": "Synthetic academic starter record",
+    "url": "",
+    "page": null,
+    "text": "Hand hygiene helps reduce infection spread. Clean hands with soap and water at important times and when visibly dirty.",
+    "data_status": "Replace or verify against an approved medical source before making real-source claims"
+  }
+]

@@ -1,0 +1,3 @@
+source,title,url,status
+MedlinePlus,Health Topics,https://medlineplus.gov/xml.html,Recommended primary source
+MedQuAD,Medical QA Dataset,https://github.com/abachaa/MedQuAD,Use permitted non-empty subsets with provenance
