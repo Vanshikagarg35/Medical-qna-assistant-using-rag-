@@ -6,12 +6,7 @@
   "functions": {
     "api/index.py": {
       "maxDuration": 300,
-      "includeFiles": [
-        "backend/**",
-        "data/**",
-        "models/**",
-        "vector_store/**"
-      ],
+      "includeFiles": "{backend,data,models,vector_store}/**",
       "excludeFiles": "{backend/tests/**,frontend/**,docs/**,scripts/**}"
     }
   }
