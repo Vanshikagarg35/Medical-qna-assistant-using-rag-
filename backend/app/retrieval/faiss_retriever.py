@@ -8,7 +8,7 @@ ROOT=Path(__file__).resolve().parents[3];STORE=ROOT/'vector_store';INDEX=STORE/'
 class FaissRetriever:
  def __init__(self):self.model=None;self.index=None;self.records=[]
  def get_model(self):
-  if self.model is None:self.model=SentenceTransformer(settings.embedding_model,local_files_only=True)
+  if self.model is None:self.model=SentenceTransformer(settings.embedding_model)
   return self.model
  def build(self,records):
   vectors=self.get_model().encode([r['text'] for r in records],normalize_embeddings=True,show_progress_bar=True).astype('float32')

@@ -4,3 +4,5 @@ frontend/node_modules/
 frontend/dist/
 __pycache__/
 .pytest_cache/
+vector_store/medical.faiss
+vector_store/metadata.pkl

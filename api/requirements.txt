@@ -1,9 +1,0 @@
-# Dependencies kept beside the Vercel Python entrypoint so they are packaged
-# into the serverless function.
-fastapi==0.115.6
-pydantic==2.10.5
-pydantic-settings==2.7.1
-httpx==0.28.1
-sentence-transformers>=3.3.1,<7
-faiss-cpu>=1.9.0
-numpy>=1.26,<3
